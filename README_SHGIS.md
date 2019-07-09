@@ -37,8 +37,8 @@ Former members：
 
 ## Contents 目录
 
-- SG Chinese Schools
-- Kampongs.csv
+- SG_Chinese Schools.xls
+- SG_Kampongs.xlsx
 - README.md: this file 本文档
 
 
