@@ -2,7 +2,7 @@
 SHGIS is a database that contains historical geographical information of Singapore Temples, Clan Associations, Chinese Schools, Kampongs (Villages) and others.
 The SHGIS [website](https://shgis.nus.edu.sg/) (2017) visualizes the data with Web GIS.
 
-SHGIS是关于新加坡寺庙、会馆、华校、甘榜（村庄）等方面资讯的历史地理信息数据库。SHGIS网站 [website](https://shgis.nus.edu.sg/) (2019) 通过在线地图呈现数据。
+SHGIS是关于新加坡寺庙、会馆、华校、甘榜（村庄）、墓地等方面资讯的历史地理信息数据库。SHGIS网站 [website](https://shgis.nus.edu.sg/) (2019) 通过在线地图呈现数据。
 
 ## Version 版本
 
