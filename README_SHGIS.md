@@ -37,9 +37,10 @@ Former members：
 
 ## Contents 目录
 
-- SG_Chinese Schools.xls
-- SG_Kampongs.xlsx
 - README.md: this file 本文档
+- SG_Kampongs.xlsx
+- SG_Cemeteries.xls
+- SG_ChineseSchools.xls
 
 
 ## Project Information 项目资讯
