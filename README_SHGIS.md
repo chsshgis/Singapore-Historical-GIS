@@ -39,8 +39,8 @@ Former members：
 
 - README.md: this file 本文档
 - SG_Kampongs.xlsx
-- SG_Cemeteries.xls
-- SG_ChineseSchools.xls
+- SG_Cemeteries.xlsx
+- SG_ChineseSchools.xlsx
 
 
 ## Project Information 项目资讯
